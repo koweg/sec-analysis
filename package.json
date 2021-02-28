@@ -2,7 +2,7 @@
   "name": "sec-analysis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://koweg.github.io",
+  "homepage": "https://koweg.github.io/sec-analysis",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
